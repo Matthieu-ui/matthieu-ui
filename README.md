@@ -5,6 +5,9 @@
 [![](https://img.shields.io/badge/--blue?style=social&logo=Discord)](https://discordapp.com/users/globz#6294)
 <br/>
 [![Holopin](https://holopin.onrender.com/mattman)](https://holopin.io/mattman)
+<br/>
+[![](https://img.shields.io/badge/-MatthieuFelker@skiff.com-lightgrey?style=plastic&logo=Mail.ru)](mailto:matthieufelker@skiff.com)
+
 
 
 
