@@ -6,7 +6,7 @@
 <br/>
 [![Holopin](https://holopin.onrender.com/mattman)](https://holopin.io/mattman)
 <br/>
-[![](https://img.shields.io/badge/-MatthieuFelker@skiff.com-lightgrey?style=plastic&logo=Mail.ru)](mailto:matthieufelker@skiff.com)
+[![](https://img.shields.io/badge/-MatthieuFelker@skiff.com-lightgrey?style=plastic&logo=Minutemailer)](mailto:matthieufelker@skiff.com)
 
 
 
