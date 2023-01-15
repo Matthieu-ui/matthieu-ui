@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/--blue?style=social&logo=Twitter)](https://twitter.com/fattmelker)
 [![](https://img.shields.io/badge/--blue?style=social&logo=Discord)](https://discordapp.com/users/globz#6294)
 <br/>
-[![Holopin](https://holopin.onrender.com/mattman)](https://holopin.io/mattman)
+[![Holopin](https://holopin.onrender.com/mattman)](https://www.holopin.io/@mattman#)
 <br/>
 [![](https://img.shields.io/badge/-MatthieuFelker@skiff.com-lightgrey?style=plastic&logo=Minutemailer)](mailto:matthieufelker@skiff.com)
 
