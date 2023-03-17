@@ -1,4 +1,4 @@
-| <img src="./public/isoBlock.png" style="width: 90px;"> | Building scalable <br/> web applications using <br/>React/Node.js/Express/TailwindCSS<br/>#OpenForWork #JavaScript |
+| <img src="./public/isoBlock.png" style="width: 90px;"> | Creating graphics and scalable <br/> web applications using <br/>React/Node.js/Express/TailwindCSS<br/>#OpenForWork #JavaScript |
 | --- | --- |
 
 
