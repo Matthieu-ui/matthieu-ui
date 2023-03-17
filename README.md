@@ -1,4 +1,7 @@
+
+<img src="./public/isoBlock.png" style="width: 50px; position:absolute; top: 0; left: 0;">
 <img src="./public/hex1gif.gif" style="width: 250px">
+
 
 [![](https://img.shields.io/badge/--blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/matthieufelker/)
 [![](https://img.shields.io/badge/--blue?style=social&logo=Steam)](https://steamcommunity.com/id/CBNTC1/)
