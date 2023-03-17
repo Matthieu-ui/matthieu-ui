@@ -1,7 +1,5 @@
 <style>
-    a :hover {
-  scale: 1.1;
-}
+
 .isoBlock{
     width: 90px;
 }
