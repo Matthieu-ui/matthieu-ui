@@ -23,7 +23,7 @@
 
 <a href="#" class="link" ><img class="isoBlock" src="./public/isoBlock.png"></a>
 <img src="./public/hex1gif.gif" style="width: 250px; text-align: center; margin: 0 auto;">
-<script rel="./style/style.css" type="text/css"></script>
+
 
 
 
