@@ -1,6 +1,6 @@
 
 <img src="./public/isoBlock.png" style="width: 50px; position:absolute; top: 0; left: 0;">
-<img src="./public/hex1gif.gif" style="width: 250px; float: right;">
+<img src="./public/hex1gif.gif" style="width: 250px; text-align: center; margin: 0 auto;">
 
 <div style="position: absolute; bottom: 0; right: 0;">
 
