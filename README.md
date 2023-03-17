@@ -1,5 +1,5 @@
 <style>
-    .link :hover {
+    a :hover {
   scale: 1.1;
 }
 .isoBlock{
