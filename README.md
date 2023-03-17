@@ -8,7 +8,9 @@
 <br/>
 
 
-<img src="./public/isoBlock.png" style="width: 90px; position: absolute; right: 0;">
+<img src="./public/isoBlock.png" style="width: 90px; float: right">
+<p>lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor, nisl eget ultricies lacinia, nisl nisl aliquet nisl, nec aliquet nisl nisl sit amet nisl. Donec auctor, nisl eget ultricies lacinia, nisl nisl aliquet nisl, nec aliquet nisl nisl sit amet nisl.</P> Donec auctor, nisl eget ultricies lacinia, nisl nisl aliquet nisl, nec aliquet nisl nisl sit amet nisl. Donec auctor, nisl eget ultricies lacinia, 
+</p>
 <img src="./public/hex1gif.gif" style="width: 250px; text-align: center; margin: 0 auto;">
 
 
