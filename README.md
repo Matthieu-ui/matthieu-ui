@@ -8,7 +8,7 @@
 <br/>
 </div>
 
-<img src="./public/isoBlock.png" style="width: 90px; float: right;">
+<img src="./public/isoBlock.png" style="width: 90px; position: absolute; right: 0;">
 <img src="./public/hex1gif.gif" style="width: 250px; text-align: center; margin: 0 auto;">
 
 
