@@ -1,4 +1,5 @@
-<span style="border: none">|
+<span style="border: none">
+
 <img src="./public/isoBlock.png" style="width: 90px;"><br>Matthieu Felker<br>Graphics/Development | <br><br><br><br><br><i>Seattle, Wa</i><br> |
 | --- | --- |
 
