@@ -1,4 +1,4 @@
-| <img src="./public/isoBlock.png" style="width: 90px;"><br>Matthieu Felker<br>Graphics/Development | <br><br>Building scalable <br/> web applications using <br/>React/Node.js/Express/TailwindCSS<br/>#OpenForWork #JavaScript |
+| <img src="./public/isoBlock.png" style="width: 90px;"><br>Matthieu Felker<br>Graphics/Development | <br><br>Building scalable <br/> web applications using <br/>React/Node.js<br>Express/TailwindCSS<br/>#OpenForWork<br>#JavaScript |
 | --- | --- |
 
 
