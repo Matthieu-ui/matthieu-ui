@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animated Text Example</title>
+    <!-- animat this
+    -
+    /
+    |
+    \
+
+    with css 
+    
+    -->
+	<style>
+
+     
+          
+          .line {
+            width: 1px;
+            height: 12px;
+            background-color: black;
+            margin: 0 10px;
+            animation: spin 1s linear infinite;
+          }
+          
+          .line:nth-child(1) {
+            animation-delay: 0.25s;
+          }
+          
+
+          
+          @keyframes spin {
+            0% {
+              transform: rotate(0deg);
+            }
+            25% {
+              transform: rotate(90deg);
+            }
+            50% {
+              transform: rotate(180deg);
+            }
+            75% {
+              transform: rotate(270deg);
+            }
+            100% {
+              transform: rotate(360deg);
+            }
+          }
+
+	</style>
+</head>
+<body>
+    <div class="container">
+      <div class="line"></div>
+
+    </div>
+	<script>
+		// JavaScript code goes here
+	</script>
+</body>
+</html>
