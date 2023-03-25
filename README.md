@@ -1,7 +1,8 @@
-<!-- width 100% -->
-<div style="width: 100%; display: flex; flex-direction: column;">
-<img src="./public/isoBlock.png" style="width: 90px;">
+<p align="center">
+  <samp>
 
-
-</div>
+    <a href="https://matthieufelker.me"><img src="./public/isoBlock.png" style="width: 60px;"></a>
+ 
+  </samp>
+</p>
 
